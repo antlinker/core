@@ -13,6 +13,7 @@ const (
 	MYSQL    = "mysql"
 	MSSQL    = "mssql"
 	ORACLE   = "oracle"
+	SQLMOCK  = "SQLMOCK"
 )
 
 // xorm SQL types
